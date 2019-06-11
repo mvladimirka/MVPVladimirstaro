@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaVladimir</string>
+    <string name="battery_level">Battery Level</string>
+    <string name="jezik">Change language</string>
+    <string name="install_update">Install update</string>
+    <string name="dubrovnik">" Dubrovnik is today apart from the natural beauty of the masonry and buildings popular with the HBO Game of Trones series as Kings Landing."</string>
+    <string name="zadar">Zadar is one of the most popular Croatian tourist destinations, which the London Times proclaimed as the \"center of fun on the Adriatic,\" and Guardian \"the new Croatian capital of cool\". It will conquer you with its special atmosphere and rich life - whether it is day or night. In the summer, Zadar hosts the Musical Evenings in St. Donat, the Zadar Summer Theater, the Contemporary Music Festival, the KalelargArt - Street Art Festival, and the urban Zadar Dream Festival. You will certainly have fun on the Night of Misery, Millennium Jump, or at one of the world\'s music attractions concerts..</string>
+    <string name="osijek">Indeed, Osijek, in many ways, grabs its beauty. The most green is a large Croatian town, with as many as 17 parks, with a total area of ​​nearly 400,000 square meters, the Baroque Fortress is best preserved in such a complex in the country, the magnificent Cathedral stands beside the Zagreb and Djakovica, which are otherwise the most beautiful in continental Croatia, the Secession Palace could briefly make you feel like walking around the wide streets of Vienna, and the beautiful river promenade is almost in the very center of the city.</string>
+    <string name="trogir">The town of Trogir was founded by Greek colonists from the island of Vis in III. st. Christ. In central Europe it was considered the best preserved Romanesque-Gothic city. The castle and tower surrounded by walls form the core of Trogir.  The most important cultural monument is the Trogir cathedral, whose portal of the western door was made by the master Radovan. The town of Trogir is located on the coast of Kaštela Bay, on the island of Trogir between Čiovo and the mainland, connected by stone bridge to the mainland. Trogir delights visitors to cultural and historical monuments and small streets as well as art collections with many great works.</string>
+    <string name="metkovic">" The city that was given by most athletes and politicians."</string>
+    <string name="zagreb">Capital of Croatia. Although the city is completely modern, Zagreb has historical areas of interest that are an integral part of the life of the inhabitants.</string>
+    <string name="split">Split is an everlasting young town with about 200,000 inhabitants giving it a warm Mediterranean temperament. He has lived his urban rhythm for 1,700 years, with a heart in the Diocletian palace and the soul that awaits you with his wide arms. From then until today, the millennial duration of the city under the protection of UNESCO and recorded in the register of World Cultural Heritage is the history and present of the unique Dalmatian metropolis.</string>
+    <string name="share" translatable="false">share</string>
+    <string name="browser" translatable="false">www</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">installiere Update</string>
+    <string name="split">Split ist eine immerwährende junge Stadt mit etwa 200.000 Einwohnern, die ihr ein warmes mediterranes Temperament verleihen. Seit 1700 Jahren lebt er seinen urbanen Rhythmus, mit einem Herz im Diokletianpalast und der Seele, die Sie mit seinen breiten Armen erwartet. Von da an bis heute ist die jahrhundertelange Dauer der unter UNESCO-Schutz stehenden Stadt, die im Verzeichnis des Weltkulturerbes eingetragen ist, die Geschichte und Gegenwart der einzigartigen dalmatinischen Metropole.</string>
+    <string name="zadar">...</string>
+    <string name="osijek">" In der Tat ergreift Osijek seine Schönheit in vielerlei Hinsicht. Die grünste Stadt ist eine große kroatische Stadt mit 17 Parks und einer Gesamtfläche von fast 400.000 Quadratmetern. Die Barockfestung ist am besten in einem solchen Komplex des Landes erhalten. Die prächtige Kathedrale befindet sich neben Zagreb und Djakovica, die ansonsten die schönsten im kontinentalen Kroatien sind. Der Secessionspalast lässt Sie vielleicht kurz durch die breiten Straßen Wiens spazieren, und die schöne Flusspromenade befindet sich fast im Zentrum der Stadt"</string>
+    <string name="trogir">Die Stadt Trogir wurde von griechischen Kolonisten von der Insel Vis in III gegründet. st. Christus. In Mitteleuropa galt sie als die am besten erhaltene romanisch-gotische Stadt. Das Schloss und der von Mauern umgebene Turm bilden den Kern von Trogir.  Das wichtigste Kulturdenkmal ist die Kathedrale von Trogir, deren Portal der westlichen Tür vom Meister Radovan errichtet wurde. Die Stadt Trogir liegt an der Küste der Kaštela Bucht, auf der Insel Trogir zwischen Čiovo und dem Festland, die durch eine Steinbrücke mit dem Festland verbunden ist. Trogir erfreut Besucher an kulturellen und historischen Denkmälern und kleinen Straßen sowie Kunstsammlungen mit vielen großartigen Werken.</string>
+    <string name="metkovic">Die Stadt, die von den meisten Sportlern und Politikern gegeben wurde</string>
+    <string name="install_update">" Installiere Update"</string>
+    <string name="jezik">" Sprache ändern"</string>
+    <string name="battery_level">" Batterie Level"</string>
+    <string name="dubrovnik">" Dubrovnik ist heute abgesehen von der natürlichen Schönheit der Mauern und Gebäude, die in der HBO-Serie Game of Thrones als Kings Landing beliebt sind."</string>
+    <string name="zagreb">" Die Hauptstadt von Kroatien. Obwohl die Stadt völlig modern ist, hat Zagreb historische Interessengebiete, die ein wesentlicher Bestandteil des Lebens der Einwohner sind."</string>
+    <string name="share" translatable="false">share</string>
+    <string name="browser" translatable="false">www</string>
+
+</resources>

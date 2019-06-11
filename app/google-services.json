@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "70130334453",
+    "firebase_url": "https://fragmentivladimir-bd80c.firebaseio.com",
+    "project_id": "fragmentivladimir-bd80c",
+    "storage_bucket": "fragmentivladimir-bd80c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70130334453:android:9cff6dedf9a4a754",
+        "android_client_info": {
+          "package_name": "hr.tvz.android.listavladimir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70130334453-065f3rp4ujv1arl8f3fah036n09k60n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXVv2dwzyJIWzkOGcIQCAsJBSqOHfyoRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70130334453-065f3rp4ujv1arl8f3fah036n09k60n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

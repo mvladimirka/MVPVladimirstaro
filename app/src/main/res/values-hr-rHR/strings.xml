@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaVladimir</string>
+    <string name="battery_level">Razina baterije</string>
+    <string name="install_update">Ažuriraj</string>
+    <string name="jezik">Promijeni jezik</string>
+    <string name="split">Split je vječno mladi grad sa oko 200.000 stanovnika koji mu daju topli mediteranski temperament. On živi svojim urbanim ritmom već 1.700 godina, sa srcem u Dioklecijalnovoj palači i dušom koja vas dočekuje raširenih ruku. Od tada do danas milenijsko trajanje grada pod zaštitom UNESCO-a i upisanog u registar Svjetske kulturne baštine piše povijest i sadašnjost jedinstvene metropole Dalmacije.</string>
+    <string name="zadar">Zadar je jedno od najpopularnijih hrvatskih turističkih odredišta, kojeg je i londonski Times proglasio „središtem zabave na Jadranu“, a Guardian „novom hrvatskom prijestolnicom cool-a“. Osvojit će Vas svojom posebnom atmosferom i bogatim životom – bilo danju ili noću. Ljeti je Zadar domaćin Glazbenim večerima u sv. Donatu, Zadarskom kazališnom ljetu, Festivalu suvremene glazbe, KalelargArt - Street art festivalu, te urbanom festivalu Zadar snova. Zasigurno ćete se zabaviti i na Noći punog miseca, Millennium Jump-u ili na jednom od koncerata svjetskih glazbenih atrakcija.</string>
+    <string name="trogir">Grad Trogir osnovali su grčki kolonisti s otoka Visa u III. st. pr. Krista. U srednjoj Europi smatran je najbolje sačuvanim romaničko-gotičkim gradom. Dvorac i kula okruženi zidinama sačinjavaju jezgru Trogira.  Najznačajniji kulturni spomenik je trogirska katedrala, čiji je portal zapadnih vrata izradio majstor Radovan. Grad Trogir smješten je na obali Kaštelanskog zaljeva, na otočiću Trogiru između Čiova i kopna, spojen kamenim mostom s kopnom. Trogir oduševljava posjetitelje kulturno-povijesnim spomenicima i malim ulicama te umjetničkim zbirkama s brojnim remek djelima.</string>
+    <string name="metkovic">Grad koji je dao  najviše sportaša i političara</string>
+    <string name="dubrovnik">"Dubrovnik je danas, osim po prirodnoj ljepoti zidina i građevina popularan po HBO seriji Igra prijestolja kao Kings Landing . "</string>
+    <string name="zagreb">Glavni grad Hrvatske. Iako u potpunosti moderan grad, Zagreb ima povijesna područja od interesa koja su sastavni dio života stanovnika.</string>
+    <string name="osijek">"Doista, Osijek u mnogočemu plijeni svojom ljepotom. Najzeleniji je to veliki hrvatski grad, s čak 17 parkova, zajedničke površine od gotovo 400.000 četvornih metara, barokna Tvrđa najbolje je očuvani takav kompleks u državi, velebna Katedrala stoji uz bok zagrebačkoj i đakovačkoj, koje su inače na glasu kao najljepše u kontinentalnoj Hrvatskoj, secesijske palače nakratko bi vam mogle stvoriti dojam kao da hodate širokim bečkim ulicama, a prekrasna riječna šetnica nalazi se gotovo u samome središtu grada. "</string>
+    <string name="share" translatable="false">share</string>
+    <string name="browser" translatable="false">www</string>
+</resources>
